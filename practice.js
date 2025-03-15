@@ -4,7 +4,7 @@ function reverseString(str) {
     return str.split('').reverse().join('');
 }
 
-console.log(reverseString("hello")); 
+console.log(reverseString("hello"));
 
 // Write a function to check if a string is a palindrome.
 
@@ -68,7 +68,30 @@ function countOccurrences(str) {
     
     return result;
 }
-
 console.log(countOccurrences("hello")); 
 
 
+// 1.Find the output of the following code:
+
+// 122
+// 32
+// 02
+// 112
+// NaN2
+// NaN
+
+// 2 question
+// True
+
+//3 question
+// 456
+
+//4 question
+// undefined
+
+// 8 question
+// number
+
+// 9 question 
+//  undefined
+// 5
